@@ -1,0 +1,35 @@
+Data Scientists;Sunnyvale
+Data Scientists;Fremont
+Data Scientists;Mountain View
+Data Scientists;Indianapolis
+Data Scientists;Burlington 
+Data Scientists;Menlo Park
+Data Scientists;Stamford
+Data Scientists;Pittsburgh
+Data Scientists;Santa Clara
+Data Scientists;San Jose
+Data Scientists;Stanford
+Software Engineers;Sunnyvale
+Software Engineers;Fremont
+Software Engineers;Mountain View
+Software Engineers;Indianapolis
+Software Engineers;Burlington
+Software Engineers;Menlo Park
+Software Engineers;Stamford
+Software Engineers;Pittsburgh
+Software Engineers;Santa Clara
+Software Engineers;San Jose
+Software Engineers;Stanford
+Data Engineers;Sunnyvale
+Data Engineers;Fremont
+Data Engineers;Mountain View
+Data Engineers;Indianapolis
+Data Engineers;Burlington
+Data Engineers;Menlo Park
+Data Engineers;Stamford
+Data Engineers;Pittsburgh
+Data Engineers;Santa Clara
+Data Engineers;San Jose
+Data Engineers;Stanford
+
+
